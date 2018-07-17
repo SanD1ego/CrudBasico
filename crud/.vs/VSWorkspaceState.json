@@ -4,8 +4,7 @@
     "\\controllers",
     "\\models",
     "\\views",
-    "\\views\\site",
-    "\\web\\views"
+    "\\views\\site"
   ],
   "SelectedNode": "\\controllers\\ProfessorController.php",
   "PreviewInSolutionExplorer": false
