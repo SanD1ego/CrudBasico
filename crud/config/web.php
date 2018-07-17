@@ -17,6 +17,7 @@ $config = [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => 'DO2tFynqnUNxXHuNREayEgI-lDK8iMsL',
+		//	'cookieValidationKey' => 'git@github.com:SanD1ego/CrudBasico.git'
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
