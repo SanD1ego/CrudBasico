@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\crud",
+    "\\crud\\controllers",
+    "\\crud\\models",
+    "\\crud\\views",
+    "\\crud\\web",
+    "\\crud\\web\\css",
+    "\\crud\\web\\views",
+    "\\crud\\widgets"
+  ],
+  "SelectedNode": "\\crud\\views\\Country",
+  "PreviewInSolutionExplorer": false
+}

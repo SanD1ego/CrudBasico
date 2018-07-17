@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
     "\\controllers",
-    "\\models"
+    "\\models",
+    "\\views",
+    "\\views\\site",
+    "\\web\\views"
   ],
-  "SelectedNode": "\\controllers\\CountryController.php",
+  "SelectedNode": "\\controllers\\ProfessorController.php",
   "PreviewInSolutionExplorer": false
 }
